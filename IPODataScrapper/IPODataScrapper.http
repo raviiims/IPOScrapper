@@ -1,0 +1,6 @@
+@IPODataScrapper_HostAddress = http://localhost:5024
+
+GET {{IPODataScrapper_HostAddress}}/getipodata/
+Accept: application/json
+
+###
